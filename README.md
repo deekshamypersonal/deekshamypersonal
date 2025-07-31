@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeksha-tripathi-778014195)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekshatrip1@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://deekshamypersonal.github.io/myportfolio)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-303030?logo=internet-explorer&logoColor=white)](https://deekshamypersonal.github.io/myportfolio)  
 
 ---
 
