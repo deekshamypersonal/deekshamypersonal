@@ -14,7 +14,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deeksha-tripathi-778014195)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://deekshamypersonal.github.io/myportfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E53935?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://deekshamypersonal.github.io/myportfolio)
 
 
 ---
