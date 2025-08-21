@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-- Full-stack Java developer with 3+ years of experience building scalable, reliable applications  
+- Full-stack Java developer with 4+ years of experience building scalable, reliable applications  
 - Took a 2.5-year career break for parenting and now actively working on personal projects and returning to tech  
 - Comfortable with Java, Spring Boot, and SQL databases on the backend, and ReactJS on the frontend. 
 - Hands-on experience with AWS, Docker, and writing clean, maintainable code  
